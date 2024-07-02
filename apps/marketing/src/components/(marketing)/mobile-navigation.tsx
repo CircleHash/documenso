@@ -47,11 +47,11 @@ export const MENU_NAVIGATION_LINKS = [
     text: 'Privacy',
   },
   {
-    href: 'https://app.documenso.com/signin?utm_source=marketing-header',
+    href: '/signin?utm_source=marketing-header',
     text: 'Sign in',
   },
   {
-    href: 'https://app.documenso.com/signup?utm_source=marketing-header',
+    href: '/signup?utm_source=marketing-header',
     text: 'Sign up',
   },
 ];
